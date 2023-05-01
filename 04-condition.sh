@@ -34,7 +34,7 @@ esac
 # * c'est un default
 # esac c'est la fin du switch case
 
-if [[ $lettre != "a"]]
+if [[ $lettre != "a" ]]
 then
 	echo "diff de a"
 fi
