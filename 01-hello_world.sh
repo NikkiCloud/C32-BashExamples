@@ -19,5 +19,5 @@ read -p "Quel age avez-vous? " age
 echo $age "! Vous etes jeune"
 
 # -p : permet de specifier un message
-# quand on veut mettre quel hose ds une variable on ne met pas le signe de dollar
+# quand on veut mettre quel chose ds une variable on ne met pas le signe de dollar
 # quand on veut ce qu'il y a dans la variable, on met le signe de dollar
