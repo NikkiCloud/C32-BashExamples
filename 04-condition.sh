@@ -29,8 +29,7 @@ case $lettre in
 	;;
 esac
 # ;; cest un break
-# ) notre code de switch commence la
-# ) notre code de switch finit la
+# ) notre code de switch pour cette condition commence la
 # * c'est un default
 # esac c'est la fin du switch case
 
