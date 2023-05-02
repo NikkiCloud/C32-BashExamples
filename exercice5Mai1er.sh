@@ -1,3 +1,9 @@
 #!/bin/bash
-creation=`mkdri`
 nombre=0
+
+while [[ $nombre -le 5]]
+do
+    mkdir"sous-répertoire"$nombre
+    echo création du sous répertoire X
+    nombre=
+done
