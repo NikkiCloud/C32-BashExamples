@@ -5,5 +5,5 @@ while [[ $nombre -le 5]]
 do
     mkdir"sous-répertoire"$nombre
     echo création du sous répertoire X
-    nombre=
+    let "nombre++"
 done
