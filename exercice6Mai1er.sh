@@ -15,6 +15,7 @@ while [[ $choix != q && $choix != Q ]]
 do
     monMenu
     read -p "Votre choix : " choix
+    clear
     if [[ $choix = a || $choix = A ]]
     then
         cd; ls
